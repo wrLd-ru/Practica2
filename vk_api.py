@@ -12,7 +12,7 @@ USER_IDs2 = []
 USER_IDs3 = []
 
 # как безопасно передать токен?????
-ACCESS_TOKEN = "vk1.a.bNATTwPJPEiUjEVz4FYLe5x8ljCGs1RQPS8LAEMwwFMPCclHDngIV5AV2JCYnl7DleIQE0wxey2Ya40Lz8oq9S2_aA1N0ToPmRs6EfaY5erkQIyuktdcoHfDpFcLAFPW9M5FLmkngPaKVlTY5DxHX-e7ALcvFbsw1pPvhBYnPyAw-Rd9wK21Oqzw3cTLHOyy5FTx5jlilr2__veYleBciw"
+ACCESS_TOKEN = "Your token???"
 
 
 # получение друзей одногруппников
